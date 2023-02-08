@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Feng Li"
   avatar           : "BioLF.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   employer         :
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
