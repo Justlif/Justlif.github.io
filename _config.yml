@@ -83,7 +83,8 @@ author:
   name             : "Feng Li（李峰）"
   avatar           : "BioLF.jpg"
   bio              : "Laboratory of Advanced Materials"
-  employer         : "Fudan University"
+  bio              : "Fudan University"
+  employer         : 
   email            : "li_feng@fudan.edu.cn"
   uri              :
   bitbucket        :
