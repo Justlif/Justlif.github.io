@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Prof. Li's Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "LF.Chem"
 description              : &description "personal description"
 url                      : https://justlif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
