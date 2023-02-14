@@ -12,7 +12,7 @@ text-align: justify
 ======
 45. **Merging platinum single atoms to achieve ultrahigh mass activity and low hydrogen production cost**
   
-     **Feng Li**, Do Hyung Kweon, Gao-Feng Han, Hyuk-Jun Noh, Wei Che, Ishfaq Ahmad, Hu Young Jeong, Zhengping Fu, Yalin Lu, Jong-Beom Baek, _**ACS Nano**_, 2023, doi.org/10.1021/acsnano.2c11338. 
+     **Feng Li**, Do Hyung Kweon, Gao-Feng Han, Hyuk-Jun Noh, Wei Che, Ishfaq Ahmad, Hu Young Jeong, Zhengping Fu, Yalin Lu, Jong-Beom Baek, _**ACS Nano**_, 2023, 17, 2923–2931. 
 
 
 <ins>2022
@@ -35,11 +35,11 @@ text-align: justify
   
 40. **Extreme enhancement of carbon hydrogasification via mechanochemistry**
   
-    Gao-Feng Han, Peng Zhang, Pascal Scholzen, Hyuk-Jun Noh, Mihyun Yang, Do Hyung Kweon, Jong-Pil Jeon, Young Hyun Kim, Seong-Wook Kim, Sun-Phil Han, Andrey Andreev, Guillaume Lang, Kyuwook Ihm, **Feng Li**, Jean-Baptiste d'Espinose de Lacaillerie, Jong-Beom Baek, _**Angew. Chem. Int. Ed.**_, 2022, DOI: 10.1002/anie.202117851.
+    Gao-Feng Han, Peng Zhang, Pascal Scholzen, Hyuk-Jun Noh, Mihyun Yang, Do Hyung Kweon, Jong-Pil Jeon, Young Hyun Kim, Seong-Wook Kim, Sun-Phil Han, Andrey Andreev, Guillaume Lang, Kyuwook Ihm, **Feng Li**, Jean-Baptiste d'Espinose de Lacaillerie, Jong-Beom Baek, _**Angew. Chem. Int. Ed.**_, 2022, 61, e202117851.
   
 39. **Abrading bulk metal into single atoms**
   
-    Gao-Feng Han, **Feng Li**, Alexandre I. Rykov, Yoon-Kwang Im, Soo-Young Yu, Jong-Pil Jeon, Seok-Jin Kim, Wenhui Zhou, Rile Ge, Zhimin Ao, Tae Joo Shin, Junhu Wang, Hu Young Jeong, Jong-Beom Baek, _**Nat. Nanotechnol.**_, 2022, DOI: 10.1038/s41565-022-01075-7.
+    Gao-Feng Han, **Feng Li**, Alexandre I. Rykov, Yoon-Kwang Im, Soo-Young Yu, Jong-Pil Jeon, Seok-Jin Kim, Wenhui Zhou, Rile Ge, Zhimin Ao, Tae Joo Shin, Junhu Wang, Hu Young Jeong, Jong-Beom Baek, _**Nat. Nanotechnol.**_, 2022, 17, 403–407.
   
 38. **Nanocatalytic materials for energy-related small-molecules conversions: active site design, identification and structure-performance relationship discovery** 
   
