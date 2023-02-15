@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Prof. Li's Lab"
+title: "Welcome to Lab of Functional Nanomaterials"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
