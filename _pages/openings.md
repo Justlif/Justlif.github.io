@@ -11,4 +11,4 @@ Postdocs, graduate students, undergraduate students with chemistry, materials sc
 
 For More Information:
 
-E-mail: li_feng@fudan.edu.cn
+E-mail: li_feng at fudan.edu.cn
